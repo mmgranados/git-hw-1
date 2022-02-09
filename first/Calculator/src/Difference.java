@@ -1,6 +1,6 @@
 public class Difference {
 
     public static double subtract(double x, double y) {
-        return (2*x) - (2*y);
+        return (4*x) - (4*y);
     }
 }
